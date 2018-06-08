@@ -1,6 +1,8 @@
 EverBrite is a solar powered motion sensing LED light:
 
-![everbrite-orig](https://user-images.githubusercontent.com/3174101/30843331-2927a3e8-a23d-11e7-864f-c42c91d53160.png)
+![everbrite-orig](/images/2017/09/everbrite-orig.png)
+
+
 
 Amazon and eBay also have lots of similarly looking lights by different brands.
 
@@ -18,6 +20,6 @@ I don't want the light to stay on at the dim brightness level all night.  I want
 2. If your light does not match this picture, do not proceed.
 3. Remove the 270 ohm resistor, labeled 271 on the right side of the PCB
 
-![everbrite-pcb](https://user-images.githubusercontent.com/3174101/30843333-2ce261b2-a23d-11e7-886f-e8cd4fd18258.png)
+![everbrite-pcb](/images/2017/09/everbrite-pcb.png)
 
 4. Now, the light will only turn on when motion is detected and then turn off, instead of going dim like before.
