@@ -1,8 +1,12 @@
+---
+layout: "post"
+title: "Everbrite Mod"
+date: "2017-09-25 20:07"
+---
+
 EverBrite is a solar powered motion sensing LED light:
 
 ![everbrite-orig](/images/2017/09/everbrite-orig.png)
-
-
 
 Amazon and eBay also have lots of similarly looking lights by different brands.
 
