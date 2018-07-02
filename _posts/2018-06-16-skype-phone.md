@@ -108,7 +108,7 @@ I was also able to compile alsa libraries, which may be useful in getting audio 
 
 I uploaded my changes here:
 
-TODO link to patches
+https://github.com/lawm/skype-phone
 
 ### Hello World
 
@@ -121,8 +121,6 @@ hello_world built Aug  3 2009 17:33:14
 But I wanted to compile my own.
 
 With my new toolchain, I created a simple Hello World C program and compiled it.
-
-TODO link to hello world app/makefile
 
 ```
 PC:~/apps$ make
