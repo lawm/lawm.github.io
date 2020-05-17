@@ -1,0 +1,14 @@
+# guide
+Followed https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
+
+Make sure to set GEM_HOME and PATH following install guides
+
+# update github pages gem:
+bundle update
+## if bundle error, remove Gemfile.lock
+
+# add post
+copy .md file in _posts/
+
+# serve locally:
+bundle exec jekyll serve --incremental --watch --livereload
