@@ -33,13 +33,15 @@ Time Machine works to backup Apple Notes on macOS, but I also want:
     sudo apt-get install build-essential libsqlite3-dev zlib1g-dev git ruby-full ruby-bundler
 
     bundle install
-```
+    ```
 
 4. Run the tool to convert from Apple's Notes format to a more readable and portable format.
+
     ```
     ruby notes_cloud_ripper.rb -m ../group.com.apple.notes
     ```
-The output will include
+
+    The output will include
 
     * `output/TIMESTAMP/NoteStore.sqlite`
         * plain text sqlite database
