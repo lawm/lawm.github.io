@@ -3,6 +3,8 @@ layout: "post"
 title: "Apple Notes Backup and Export"
 date: "2020-05-17 14:01"
 ---
+# Apple Notes Backup and Export
+
 ## Motivation
 Time Machine works to backup Apple Notes on macOS, but I also want:
 * a secondary backup that's easier for me to store in other places

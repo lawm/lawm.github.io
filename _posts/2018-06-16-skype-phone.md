@@ -3,6 +3,7 @@ layout: "post"
 title: "Skype Phone - Freetalk SP2014"
 date: "2018-06-16 22:09"
 ---
+# Skype Phone - Freetalk SP2014
 
 I picked up a phone that was going to electronics recycling.
 

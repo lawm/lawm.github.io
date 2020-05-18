@@ -1,2 +1,5 @@
+#default jekyll theme for github pages:
+theme: jekyll-theme-primer
+# Github Flavored Markdown:
 markdown: GFM
 github_username: lawm
